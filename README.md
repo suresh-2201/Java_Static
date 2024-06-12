@@ -1,0 +1,2 @@
+# Static method in Java
+Static methods in Java are methods that belong to the class rather than to any specific instance of the class. They can be called without creating an instance of the class. Static methods are defined using the static keyword.
